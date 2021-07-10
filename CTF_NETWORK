@@ -1,1 +1,51 @@
+ QUESTION 1   
+ 
+ “H!DD3N C0MM3NTS"
+  open the pcap file on wirehark and follow the Packet Comments 
+  FLAG- FLAG{pcap analysis is fun!}
+  H!DD3N C0MM3NTS
+  Crypto Flags
+1. Pegion
+FLAG{YIAXSAOWBRYUKPVLEHUUYHETENXRBC}
+2.Only A&B
+FLAG{YXY2LGP4YLPDLVH4CCXW9D8TGDM8DX}
+3.cut in half
+FLAG{u2qK92FqIwYucKTLVAAVG9DwAvDnBe}
+4.old is gold
+FLAG{CUOWCTATDFPXDJTZRCRADXETFTJW}
+5. Three in one
+FLAG{jrSgpsFceAz388jm4kMQB4WeC9KCpv}
 
+Forensics Flags
+1. Secret in image
+FLAG{S3CR37_D474_!N_QR_C0D3}
+2. Old Program
+FLAG{HQJmCZf3ol6mOdxakBz}
+3.OIRAM
+FLAG{SONIC}
+
+Network Flags
+1. Hidden comments
+FLAG{pcap analysis is fun!}
+2. Suspecious
+
+3. DNS quiries
+FLAG{th1s_is_t0ugh_with0u7_tsh4rk!}
+
+Web Flags
+1. Hunt
+FLAG{H0w_Was_th3_HuN7}
+2. SWEET HOME
+FLAG{TH3RES_N0_PL4CE_L1KE_127.0.0.1}
+3. LEARN PHP
+FLAG{PHP-!S-N0T-T0UGH}
+4. PLAYING WITH NO.
+FLAG{Y0U-S0LV3D-TH!S-CH4LL3NG3-C0NGR4TS}
+
+OSINT Flags
+1. Beauty
+FLAG{Denizli Province,Turkey} or FLAG{Pamukkale,Turkey}
+2. Lost Cellphone
+FLAG{28.612,77.230}
+3. Suspect street
+FLAG{2008:10:22,16:43:21}
